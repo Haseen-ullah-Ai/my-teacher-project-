@@ -1,0 +1,9 @@
+task: "Analyze customer satisfaction from the CSV and compare it to policy targets."
+expected_tools:
+  - csv_reader
+  - document_search
+expected_findings_keywords:
+  - csv_reader
+  - document_search
+must_cite: true
+should_flag_conflict: false

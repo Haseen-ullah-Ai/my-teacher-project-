@@ -1,0 +1,8 @@
+task: "Analyze Q3 sales by region from the registered sales CSV."
+expected_tools:
+  - csv_reader
+expected_findings_keywords:
+  - csv_reader
+  - result row
+must_cite: true
+should_flag_conflict: false

@@ -1,0 +1,8 @@
+task: "Calculate the percentage of fulfilled orders from provided values."
+expected_tools:
+  - calculator
+expected_findings_keywords:
+  - calculator
+  - successful result
+must_cite: true
+should_flag_conflict: false

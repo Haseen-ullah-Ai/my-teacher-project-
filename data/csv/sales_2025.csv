@@ -1,0 +1,1201 @@
+date,region,product_category,units,revenue,cost
+2025-05-30,South,Home Organization,23,2997.03,1797.60
+2025-10-16,East,Home Organization,18,2278.42,1297.32
+2025-12-01,South,Seasonal,25,2828.86,1751.17
+2025-08-14,North,Kitchen,19,1784.17,950.79
+2025-03-29,North,Outdoor Living,18,3461.65,2225.74
+2025-01-22,South,Kitchen,25,2335.40,1324.97
+2025-07-15,West,Kitchen,21,2011.39,1142.13
+2025-06-10,East,Outdoor Living,22,4235.51,2535.06
+2025-09-10,East,Kitchen,15,1594.03,907.76
+2025-06-01,West,Seasonal,15,1947.77,1177.62
+2025-11-20,North,Home Organization,19,2719.79,1558.14
+2025-06-13,East,Seasonal,20,2323.98,1408.10
+2025-03-17,South,Seasonal,21,2430.36,1490.58
+2025-11-07,North,Seasonal,16,1923.93,1194.18
+2025-03-30,North,Kitchen,14,1389.38,763.99
+2025-04-12,East,Outdoor Living,19,3922.11,2508.32
+2025-05-23,South,Outdoor Living,18,3629.87,2201.84
+2025-08-20,East,Kitchen,22,2205.42,1248.13
+2025-06-27,South,Home Organization,27,3549.36,2089.09
+2025-09-10,East,Outdoor Living,19,3414.04,2059.74
+2025-11-27,North,Outdoor Living,22,4305.55,2636.48
+2025-02-03,West,Kitchen,24,2506.59,1363.10
+2025-08-29,East,Outdoor Living,16,2896.66,1810.48
+2025-08-27,East,Home Organization,16,2408.15,1419.36
+2025-06-16,East,Home Organization,13,1631.73,960.99
+2025-06-13,South,Outdoor Living,13,2715.15,1733.95
+2025-05-12,East,Outdoor Living,15,3032.67,1887.76
+2025-03-07,West,Outdoor Living,16,3261.94,1969.18
+2025-02-24,West,Home Organization,19,2607.28,1482.13
+2025-02-05,East,Home Organization,25,3347.17,1941.52
+2025-08-28,North,Seasonal,20,2331.99,1408.80
+2025-05-09,South,Home Organization,23,3575.55,2113.29
+2025-05-17,East,Home Organization,23,3157.14,1773.62
+2025-06-03,North,Kitchen,14,1391.28,777.93
+2025-09-25,East,Seasonal,25,3184.92,1906.21
+2025-05-08,East,Seasonal,22,2477.61,1519.37
+2025-02-01,East,Home Organization,21,3208.79,1888.09
+2025-07-01,West,Home Organization,24,3343.36,1875.50
+2025-04-24,North,Kitchen,19,1717.38,972.67
+2025-06-12,East,Kitchen,27,2299.65,1269.59
+2025-06-14,West,Outdoor Living,13,2455.08,1558.00
+2025-05-28,East,Seasonal,27,3525.35,2101.57
+2025-09-21,North,Home Organization,13,1967.04,1097.67
+2025-11-02,South,Home Organization,24,3047.23,1796.32
+2025-11-28,South,Outdoor Living,19,3385.80,2105.05
+2025-07-07,West,Outdoor Living,18,3378.61,2141.88
+2025-06-26,East,Seasonal,20,2324.65,1385.45
+2025-02-08,West,Outdoor Living,18,3129.51,1943.31
+2025-04-27,West,Kitchen,21,1892.52,1029.53
+2025-03-11,North,Home Organization,24,3082.25,1781.27
+2025-02-03,South,Outdoor Living,24,4333.04,2632.02
+2025-07-12,North,Home Organization,27,4108.65,2452.60
+2025-02-27,West,Seasonal,25,3412.45,1980.66
+2025-01-10,North,Home Organization,13,1994.25,1183.27
+2025-05-27,North,Kitchen,27,2614.78,1391.49
+2025-01-25,West,Kitchen,15,1573.03,875.58
+2025-03-28,South,Home Organization,27,3974.56,2224.50
+2025-06-14,East,Seasonal,21,2328.29,1371.22
+2025-02-17,North,Home Organization,16,2182.59,1246.55
+2025-07-07,North,Kitchen,13,1292.44,709.58
+2025-02-24,North,Kitchen,17,1623.19,888.44
+2025-02-17,South,Seasonal,21,2456.95,1491.33
+2025-02-18,West,Seasonal,20,2738.01,1692.75
+2025-11-10,West,Seasonal,25,3098.11,1883.17
+2025-04-27,North,Home Organization,27,3510.68,2039.49
+2025-02-26,East,Home Organization,21,2989.98,1679.36
+2025-09-29,North,Seasonal,19,2583.28,1492.03
+2025-05-30,North,Seasonal,24,2781.95,1662.29
+2025-02-02,West,Seasonal,17,2041.15,1272.15
+2025-10-22,East,Seasonal,26,3280.75,1968.33
+2025-04-15,South,Outdoor Living,14,2476.37,1559.85
+2025-04-07,East,Kitchen,22,1875.51,1036.22
+2025-04-11,South,Outdoor Living,23,4546.47,2849.65
+2025-01-06,South,Home Organization,27,4051.07,2355.78
+2025-10-10,South,Home Organization,14,2060.50,1180.64
+2025-11-21,East,Home Organization,25,3895.01,2284.63
+2025-06-15,West,Kitchen,20,1863.26,993.84
+2025-08-16,East,Kitchen,15,1336.12,724.16
+2025-07-11,South,Home Organization,25,3569.70,2097.94
+2025-11-02,North,Outdoor Living,19,3190.50,2011.79
+2025-09-29,North,Outdoor Living,21,3960.50,2495.04
+2025-07-21,South,Home Organization,25,3893.62,2240.88
+2025-02-13,West,Kitchen,14,1441.38,818.52
+2025-11-10,East,Kitchen,27,2390.90,1325.99
+2025-08-19,South,Kitchen,18,1600.36,890.88
+2025-10-25,North,Kitchen,19,1927.20,1089.73
+2025-10-01,East,Seasonal,16,2031.58,1259.15
+2025-05-20,East,Kitchen,17,1705.11,952.91
+2025-11-23,North,Seasonal,17,1911.97,1174.06
+2025-06-13,West,Seasonal,21,2764.85,1691.83
+2025-08-24,West,Home Organization,21,2682.96,1615.15
+2025-12-22,West,Seasonal,25,2788.74,1696.33
+2025-03-11,South,Home Organization,22,3478.51,1951.98
+2025-04-20,North,Kitchen,13,1282.94,713.79
+2025-08-20,East,Kitchen,26,2672.84,1414.96
+2025-10-14,North,Home Organization,21,2847.16,1707.44
+2025-05-01,West,Home Organization,20,3113.60,1780.40
+2025-07-21,East,Outdoor Living,16,2896.51,1755.95
+2025-12-10,North,Home Organization,16,2307.80,1359.81
+2025-07-18,West,Kitchen,18,1911.44,1086.35
+2025-02-09,East,Kitchen,19,1786.65,990.89
+2025-02-05,East,Kitchen,20,2086.32,1147.71
+2025-06-25,East,Home Organization,23,2996.10,1673.23
+2025-08-21,North,Kitchen,26,2572.81,1365.75
+2025-12-23,North,Home Organization,16,2155.05,1223.81
+2025-09-23,West,Seasonal,25,2907.47,1730.61
+2025-02-28,North,Seasonal,17,1909.04,1154.02
+2025-04-13,East,Kitchen,17,1651.59,909.00
+2025-06-16,West,Outdoor Living,15,2663.83,1642.77
+2025-05-21,North,Kitchen,26,2297.00,1291.62
+2025-12-08,West,Kitchen,16,1680.36,925.08
+2025-11-09,North,Outdoor Living,26,5443.47,3319.07
+2025-08-16,South,Home Organization,25,3301.86,1912.83
+2025-11-08,North,Home Organization,21,2852.17,1628.63
+2025-11-23,South,Home Organization,14,2072.80,1174.85
+2025-08-22,North,Outdoor Living,14,2667.82,1621.22
+2025-09-03,North,Home Organization,26,3618.45,2108.77
+2025-05-10,North,Outdoor Living,21,4248.27,2551.32
+2025-09-10,West,Kitchen,24,2162.65,1197.61
+2025-11-03,West,Seasonal,17,2106.83,1292.56
+2025-12-18,East,Seasonal,27,3436.03,2131.17
+2025-12-01,East,Outdoor Living,21,3939.52,2354.44
+2025-06-26,North,Kitchen,25,2187.65,1215.73
+2025-09-02,East,Seasonal,27,3591.77,2076.22
+2025-01-28,East,Kitchen,16,1425.54,777.94
+2025-04-06,West,Outdoor Living,25,4224.68,2637.15
+2025-12-02,South,Seasonal,20,2317.59,1383.93
+2025-12-14,South,Kitchen,22,2068.66,1120.45
+2025-09-10,South,Home Organization,14,1909.90,1069.72
+2025-10-28,North,Kitchen,18,1607.92,861.83
+2025-10-24,East,Home Organization,24,3115.14,1820.14
+2025-12-17,South,Home Organization,23,3196.19,1795.56
+2025-06-20,East,Outdoor Living,18,3144.28,1906.43
+2025-07-03,East,Outdoor Living,23,3910.52,2366.26
+2025-08-21,East,Kitchen,23,2403.43,1365.98
+2025-01-23,West,Seasonal,26,3244.42,1933.69
+2025-01-10,North,Kitchen,13,1370.43,743.65
+2025-06-18,West,Outdoor Living,16,3097.85,1866.58
+2025-04-03,North,Kitchen,14,1212.09,691.85
+2025-12-27,West,Outdoor Living,16,2922.92,1760.73
+2025-03-25,South,Outdoor Living,25,5025.47,3161.35
+2025-03-31,East,Outdoor Living,24,4332.60,2623.19
+2025-07-14,East,Outdoor Living,18,3397.80,2136.39
+2025-02-10,West,Seasonal,14,1838.66,1100.23
+2025-03-27,North,Outdoor Living,27,5142.66,3176.54
+2025-10-02,South,Kitchen,23,2436.82,1367.27
+2025-06-05,South,Outdoor Living,27,5099.88,3183.19
+2025-03-15,South,Kitchen,17,1611.77,920.18
+2025-01-10,South,Home Organization,19,2420.20,1386.93
+2025-08-05,East,Home Organization,22,3470.89,1977.13
+2025-09-02,East,Kitchen,21,1951.52,1072.93
+2025-10-13,West,Outdoor Living,16,2930.06,1815.71
+2025-07-14,North,Outdoor Living,17,3425.72,2149.98
+2025-11-14,South,Outdoor Living,14,2577.45,1545.04
+2025-07-07,North,Outdoor Living,20,3737.48,2273.71
+2025-08-01,East,Seasonal,24,2662.64,1636.29
+2025-04-04,South,Kitchen,22,2257.90,1285.04
+2025-04-01,West,Home Organization,14,1836.90,1052.35
+2025-06-23,North,Home Organization,22,3367.39,1956.48
+2025-10-25,North,Outdoor Living,14,2716.01,1710.71
+2025-06-01,East,Kitchen,21,1891.93,1031.22
+2025-05-15,East,Home Organization,27,3403.91,1972.96
+2025-09-28,West,Outdoor Living,24,4590.49,2883.25
+2025-05-07,South,Home Organization,15,2293.43,1353.52
+2025-04-02,North,Kitchen,21,2111.40,1184.19
+2025-09-15,East,Outdoor Living,25,4275.24,2674.63
+2025-05-12,West,Seasonal,26,3159.61,1934.06
+2025-03-20,North,Seasonal,24,2784.85,1636.97
+2025-09-21,West,Outdoor Living,14,2715.69,1652.23
+2025-06-13,South,Outdoor Living,20,3800.05,2267.97
+2025-09-07,North,Outdoor Living,13,2152.65,1362.08
+2025-04-21,East,Kitchen,17,1550.06,842.96
+2025-10-03,South,Seasonal,14,1647.81,1007.77
+2025-04-15,South,Seasonal,14,1589.25,952.87
+2025-08-05,North,Outdoor Living,16,2733.91,1657.15
+2025-09-02,South,Kitchen,27,2495.05,1325.62
+2025-04-06,North,Home Organization,20,2951.59,1671.25
+2025-10-23,East,Kitchen,17,1817.78,992.68
+2025-11-19,East,Kitchen,27,2757.41,1517.97
+2025-08-08,West,Kitchen,17,1805.35,962.22
+2025-07-07,West,Home Organization,24,3071.25,1724.35
+2025-04-30,East,Outdoor Living,24,4925.73,2975.38
+2025-01-20,West,Seasonal,13,1447.32,860.76
+2025-02-16,West,Outdoor Living,26,5387.14,3417.70
+2025-08-25,West,Home Organization,24,3124.25,1870.59
+2025-08-11,West,Seasonal,13,1737.24,1004.16
+2025-07-31,South,Seasonal,26,2863.65,1747.11
+2025-06-29,West,Kitchen,17,1762.01,1005.37
+2025-11-11,South,Kitchen,24,2442.92,1383.09
+2025-01-13,South,Kitchen,26,2502.58,1343.97
+2025-02-12,South,Home Organization,19,2877.56,1651.47
+2025-09-14,North,Kitchen,18,1676.47,921.23
+2025-12-22,West,Outdoor Living,14,2337.69,1427.85
+2025-09-20,East,Kitchen,25,2354.13,1328.02
+2025-07-19,North,Home Organization,25,3839.03,2234.31
+2025-05-17,South,Kitchen,16,1386.05,764.73
+2025-12-14,North,Kitchen,21,2061.29,1119.23
+2025-05-07,South,Kitchen,27,2465.97,1307.26
+2025-12-02,South,Outdoor Living,15,3033.97,1816.50
+2025-03-17,West,Home Organization,23,2965.12,1767.93
+2025-07-19,South,Home Organization,23,3420.53,1977.89
+2025-11-24,West,Kitchen,26,2404.28,1292.62
+2025-05-19,West,Home Organization,14,1880.32,1128.05
+2025-12-11,East,Outdoor Living,22,4454.41,2761.52
+2025-03-07,West,Kitchen,19,1705.73,903.42
+2025-06-27,South,Kitchen,25,2153.70,1160.62
+2025-11-02,North,Home Organization,14,2032.11,1145.14
+2025-05-22,South,Outdoor Living,21,3819.54,2286.04
+2025-02-04,East,Seasonal,18,2280.92,1374.05
+2025-07-19,West,Outdoor Living,14,2395.78,1527.06
+2025-02-27,North,Home Organization,17,2279.45,1341.12
+2025-03-22,East,Outdoor Living,25,4821.52,3001.31
+2025-05-29,East,Home Organization,18,2719.25,1520.31
+2025-06-20,West,Kitchen,19,1856.53,1049.96
+2025-08-22,West,Outdoor Living,20,3662.31,2223.56
+2025-08-27,West,Home Organization,22,3333.51,1940.52
+2025-03-05,West,Outdoor Living,22,4188.07,2561.06
+2025-11-10,South,Seasonal,22,2455.90,1504.62
+2025-07-23,West,Kitchen,26,2218.85,1207.75
+2025-03-19,North,Kitchen,19,1729.81,988.85
+2025-04-04,South,Home Organization,24,3501.52,1965.28
+2025-10-16,South,Outdoor Living,19,3649.42,2173.51
+2025-06-13,West,Kitchen,18,1649.36,888.20
+2025-02-20,East,Home Organization,18,2818.23,1569.45
+2025-01-18,South,Seasonal,20,2541.05,1495.50
+2025-10-09,West,Kitchen,19,1703.34,962.30
+2025-11-07,West,Outdoor Living,23,4603.53,2826.99
+2025-08-10,East,Home Organization,21,3139.69,1860.78
+2025-01-07,East,Outdoor Living,27,5053.47,3248.24
+2025-10-19,West,Outdoor Living,22,4118.28,2584.03
+2025-03-07,North,Home Organization,13,2054.91,1193.72
+2025-05-01,West,Outdoor Living,21,4096.54,2470.58
+2025-12-13,North,Outdoor Living,14,2858.99,1755.77
+2025-12-14,West,Home Organization,26,3740.06,2216.95
+2025-06-21,North,Home Organization,25,3267.83,1887.54
+2025-12-14,South,Seasonal,15,1720.96,1002.12
+2025-12-05,West,Seasonal,22,2950.19,1784.00
+2025-01-25,North,Seasonal,18,2315.35,1397.98
+2025-10-14,East,Kitchen,16,1412.25,801.64
+2025-02-01,South,Kitchen,22,2140.03,1151.74
+2025-06-16,South,Seasonal,17,2183.16,1272.37
+2025-03-26,South,Seasonal,16,1871.31,1135.15
+2025-11-20,East,Outdoor Living,21,3806.81,2403.11
+2025-02-15,East,Kitchen,16,1426.62,768.67
+2025-05-03,South,Kitchen,18,1828.35,990.55
+2025-11-08,South,Kitchen,14,1425.46,754.69
+2025-04-22,South,Home Organization,26,3860.97,2324.81
+2025-06-06,East,Seasonal,24,3094.28,1824.39
+2025-03-19,West,Seasonal,17,2253.11,1378.46
+2025-03-16,North,Kitchen,24,2380.38,1280.12
+2025-09-01,West,Home Organization,21,2974.28,1730.91
+2025-09-02,North,Home Organization,21,2653.03,1557.56
+2025-05-05,East,Seasonal,20,2591.01,1515.89
+2025-01-07,North,Home Organization,13,2060.15,1210.61
+2025-04-02,West,Seasonal,27,3621.51,2150.53
+2025-07-10,South,Seasonal,22,2914.13,1684.78
+2025-06-21,West,Home Organization,13,1881.27,1127.96
+2025-04-21,East,Outdoor Living,27,5025.85,3047.61
+2025-01-16,West,Home Organization,20,2547.58,1501.18
+2025-03-24,West,Seasonal,17,2272.52,1412.48
+2025-12-12,South,Outdoor Living,15,3127.47,1890.90
+2025-03-25,North,Seasonal,20,2344.80,1368.96
+2025-04-12,South,Outdoor Living,23,3856.37,2366.42
+2025-02-26,East,Seasonal,22,2865.43,1770.67
+2025-10-04,North,Outdoor Living,14,2370.56,1490.55
+2025-10-23,North,Seasonal,23,2539.11,1509.82
+2025-10-24,East,Seasonal,16,2107.20,1249.43
+2025-09-10,West,Kitchen,25,2449.00,1336.87
+2025-07-21,West,Seasonal,24,2721.43,1611.05
+2025-04-06,West,Outdoor Living,27,5680.48,3597.13
+2025-01-30,East,Seasonal,15,1768.06,1066.09
+2025-02-18,North,Home Organization,13,1626.28,972.09
+2025-09-19,South,Outdoor Living,18,3317.34,2126.94
+2025-11-22,West,Home Organization,20,2948.11,1762.33
+2025-01-14,North,Home Organization,14,1766.52,1059.83
+2025-07-24,South,Outdoor Living,21,3544.00,2224.95
+2025-02-18,North,Home Organization,24,3444.37,1925.34
+2025-05-20,West,Home Organization,25,3854.78,2242.56
+2025-05-09,South,Seasonal,24,3043.30,1837.34
+2025-04-04,North,Kitchen,21,1820.76,1000.88
+2025-01-02,South,Seasonal,19,2552.87,1489.33
+2025-04-12,East,Kitchen,21,1849.12,1050.24
+2025-12-15,South,Kitchen,26,2259.23,1238.53
+2025-04-15,North,Kitchen,19,1839.90,1017.87
+2025-03-25,East,Kitchen,19,1646.08,933.56
+2025-12-12,South,Home Organization,17,2271.28,1342.22
+2025-12-19,West,Outdoor Living,19,3847.33,2307.87
+2025-12-28,East,Outdoor Living,19,3732.89,2226.49
+2025-07-12,North,Outdoor Living,18,3557.47,2236.58
+2025-08-31,East,Kitchen,20,2026.69,1124.95
+2025-12-21,South,Seasonal,23,2698.34,1657.82
+2025-03-21,North,Kitchen,23,2108.31,1139.27
+2025-02-12,North,Seasonal,19,2194.02,1304.62
+2025-07-25,West,Home Organization,17,2533.33,1524.42
+2025-07-29,East,Home Organization,23,3460.63,1974.24
+2025-08-07,North,Home Organization,19,2868.77,1608.11
+2025-06-21,North,Home Organization,18,2573.65,1526.28
+2025-01-04,West,Home Organization,14,1992.65,1114.37
+2025-11-23,South,Kitchen,14,1289.86,719.68
+2025-10-03,East,Kitchen,21,1810.14,1003.21
+2025-02-09,East,Kitchen,23,2225.51,1251.72
+2025-09-20,West,Outdoor Living,21,3933.52,2480.87
+2025-08-20,West,Kitchen,18,1543.11,823.38
+2025-05-28,North,Kitchen,22,1901.43,1021.90
+2025-08-20,South,Home Organization,17,2441.80,1386.37
+2025-09-29,South,Home Organization,22,2923.68,1678.32
+2025-01-15,North,Kitchen,24,2256.22,1228.38
+2025-12-16,West,Outdoor Living,17,3428.21,2044.06
+2025-06-26,South,Home Organization,18,2698.86,1537.53
+2025-11-05,East,Home Organization,13,1670.73,1006.66
+2025-11-26,West,Kitchen,19,1793.71,973.51
+2025-10-29,East,Outdoor Living,14,2621.40,1636.39
+2025-07-05,South,Kitchen,24,2291.99,1289.27
+2025-06-07,East,Seasonal,16,1852.84,1086.81
+2025-04-17,North,Home Organization,27,3804.06,2136.12
+2025-07-27,West,Seasonal,23,3034.20,1814.98
+2025-08-25,North,Seasonal,15,1653.41,1028.23
+2025-03-08,East,Outdoor Living,19,3435.04,2049.88
+2025-02-04,East,Home Organization,26,3573.38,2046.24
+2025-04-26,East,Seasonal,26,3584.50,2064.70
+2025-03-11,South,Home Organization,16,2050.75,1225.20
+2025-02-19,East,Kitchen,19,1871.75,1056.58
+2025-08-08,East,Kitchen,25,2195.26,1160.70
+2025-11-01,South,Kitchen,16,1434.44,815.65
+2025-05-06,South,Home Organization,14,2214.64,1270.74
+2025-06-14,South,Home Organization,15,1951.40,1117.59
+2025-08-26,West,Outdoor Living,24,5013.49,3085.94
+2025-06-13,West,Outdoor Living,22,4479.12,2804.97
+2025-10-12,East,Home Organization,17,2238.99,1265.46
+2025-06-07,East,Home Organization,26,3720.56,2190.95
+2025-03-07,South,Outdoor Living,18,3297.98,1991.84
+2025-01-18,North,Outdoor Living,25,4383.37,2762.74
+2025-02-04,North,Outdoor Living,27,4655.15,2982.82
+2025-10-30,North,Home Organization,17,2500.53,1393.64
+2025-11-12,South,Outdoor Living,22,4587.30,2951.23
+2025-06-01,East,Seasonal,20,2223.45,1299.79
+2025-07-03,East,Kitchen,26,2767.06,1521.12
+2025-09-01,East,Seasonal,16,1929.59,1186.53
+2025-02-02,East,Home Organization,20,2667.21,1499.71
+2025-08-11,South,Seasonal,13,1794.52,1083.84
+2025-05-26,North,Seasonal,13,1566.45,967.62
+2025-07-21,West,Kitchen,27,2463.91,1387.13
+2025-09-03,West,Seasonal,26,3046.45,1879.29
+2025-09-16,West,Home Organization,24,3296.76,1906.15
+2025-03-20,East,Kitchen,24,2480.96,1377.11
+2025-12-30,East,Seasonal,13,1637.26,968.36
+2025-12-12,South,Home Organization,20,2938.67,1653.61
+2025-09-17,South,Kitchen,16,1409.59,796.70
+2025-11-19,North,Kitchen,15,1540.37,859.66
+2025-05-12,South,Home Organization,13,1638.92,945.53
+2025-02-25,East,Outdoor Living,23,3875.13,2319.45
+2025-08-06,East,Outdoor Living,16,2699.65,1646.72
+2025-12-17,West,Outdoor Living,20,3641.11,2257.67
+2025-08-27,West,Outdoor Living,24,4966.65,3081.05
+2025-02-23,North,Seasonal,26,3429.69,2023.29
+2025-07-06,South,Seasonal,26,3139.55,1868.29
+2025-03-06,South,Outdoor Living,21,4361.67,2751.27
+2025-12-21,East,Kitchen,17,1457.73,804.48
+2025-12-28,South,Home Organization,13,1917.78,1100.03
+2025-05-26,North,Seasonal,14,1593.02,986.67
+2025-11-12,West,Outdoor Living,19,3955.03,2428.53
+2025-02-12,West,Seasonal,21,2330.39,1435.43
+2025-09-17,West,Seasonal,20,2506.89,1496.08
+2025-12-31,North,Kitchen,14,1253.98,709.84
+2025-11-30,South,Kitchen,22,2163.05,1164.53
+2025-12-09,South,Outdoor Living,22,4230.71,2632.24
+2025-11-18,West,Kitchen,15,1361.51,753.24
+2025-01-01,West,Kitchen,24,2512.69,1377.13
+2025-04-19,West,Kitchen,16,1549.15,868.55
+2025-12-01,West,Kitchen,23,2402.65,1303.96
+2025-02-21,East,Home Organization,20,2573.99,1513.91
+2025-05-09,East,Kitchen,22,1879.75,1019.40
+2025-08-09,West,Seasonal,18,2389.82,1475.83
+2025-02-22,North,Home Organization,26,3299.35,1904.79
+2025-01-18,North,Outdoor Living,27,5455.20,3371.33
+2025-12-25,West,Seasonal,16,2165.41,1300.25
+2025-01-13,East,Outdoor Living,20,3674.67,2319.40
+2025-11-30,West,Seasonal,16,1830.01,1057.50
+2025-10-12,East,Kitchen,15,1495.63,839.70
+2025-06-23,East,Kitchen,21,1997.66,1120.81
+2025-06-14,South,Seasonal,15,1966.31,1209.74
+2025-01-27,South,Seasonal,18,2156.40,1302.01
+2025-03-28,East,Seasonal,24,2625.50,1626.57
+2025-10-11,North,Kitchen,18,1705.66,950.10
+2025-02-10,West,Home Organization,20,2586.40,1479.18
+2025-12-26,East,Seasonal,19,2415.82,1441.77
+2025-03-31,South,Seasonal,22,2448.68,1432.16
+2025-01-20,South,Kitchen,13,1365.69,780.80
+2025-12-14,East,Outdoor Living,18,3299.22,2052.16
+2025-04-23,North,Outdoor Living,27,4730.50,2825.51
+2025-05-14,West,Home Organization,21,2920.33,1741.41
+2025-04-09,North,Kitchen,25,2324.38,1275.76
+2025-09-18,North,Seasonal,16,2121.13,1306.58
+2025-05-27,North,Outdoor Living,15,2743.45,1701.61
+2025-02-12,North,Kitchen,18,1741.80,961.88
+2025-12-03,North,Home Organization,25,3823.49,2201.95
+2025-06-22,South,Outdoor Living,23,4481.59,2865.88
+2025-12-02,West,Outdoor Living,22,3913.18,2414.67
+2025-06-14,West,Kitchen,20,1835.79,1040.27
+2025-12-05,East,Seasonal,17,2024.55,1191.44
+2025-01-09,West,Seasonal,19,2398.62,1433.10
+2025-06-29,North,Outdoor Living,22,3704.00,2351.33
+2025-11-25,South,Outdoor Living,27,4706.46,2851.56
+2025-06-26,East,Home Organization,23,3292.85,1848.67
+2025-12-21,East,Seasonal,21,2803.33,1690.46
+2025-07-13,North,Home Organization,19,2578.11,1465.27
+2025-09-01,East,Kitchen,22,1930.16,1078.35
+2025-07-06,South,Home Organization,21,2971.91,1711.28
+2025-03-25,East,Outdoor Living,16,3109.15,1956.99
+2025-09-05,South,Kitchen,17,1707.79,912.72
+2025-01-11,North,Kitchen,20,2118.66,1162.24
+2025-07-24,South,Seasonal,15,1982.13,1176.75
+2025-10-31,North,Kitchen,21,2076.25,1186.63
+2025-01-12,North,Home Organization,23,3508.52,2062.95
+2025-07-30,East,Home Organization,27,4231.07,2521.06
+2025-07-24,West,Outdoor Living,14,2798.07,1698.51
+2025-01-06,North,Kitchen,21,,1041.70
+2025-03-04,North,Home Organization,19,2680.37,1494.77
+2025-01-09,South,Home Organization,22,3303.43,1987.31
+2025-07-02,West,Seasonal,25,3229.86,1925.67
+2025-06-12,East,Outdoor Living,27,5489.15,3481.61
+2025-07-01,East,Kitchen,14,1455.09,780.64
+2025-12-27,West,Kitchen,26,2647.10,1400.95
+2025-01-28,South,Seasonal,23,3051.67,1796.68
+2025-05-12,West,Outdoor Living,26,5263.89,3300.01
+2025-05-11,North,Outdoor Living,20,3367.76,2041.57
+2025-02-15,West,Seasonal,26,3561.15,2123.01
+2025-11-16,West,Seasonal,21,2390.15,1418.13
+2025-11-04,West,Kitchen,20,1720.87,980.19
+2025-11-16,East,Outdoor Living,25,5030.37,3047.47
+2025-06-09,North,Seasonal,25,3299.28,1901.00
+2025-03-15,West,Kitchen,24,2551.24,1424.36
+2025-02-20,South,Seasonal,24,2826.44,1753.51
+2025-02-07,East,Seasonal,23,2827.69,1726.46
+2025-03-02,North,Kitchen,16,1576.61,873.32
+2025-10-21,West,Home Organization,14,1919.48,1110.61
+2025-11-03,East,Outdoor Living,20,3760.09,2256.80
+2025-01-02,West,Home Organization,21,2934.94,1765.58
+2025-05-16,East,Seasonal,13,1533.69,939.77
+2025-06-24,East,Outdoor Living,27,4559.81,2888.13
+2025-02-10,South,Kitchen,14,1490.01,787.00
+2025-03-07,South,Kitchen,19,1862.73,989.67
+2025-08-07,East,Home Organization,22,3195.46,1904.44
+2025-10-11,North,Home Organization,23,3560.51,2065.73
+2025-07-07,East,Kitchen,13,1389.55,734.52
+2025-01-19,East,Home Organization,13,1830.36,1083.05
+2025-09-08,East,Kitchen,20,1697.76,959.22
+2025-05-23,West,Home Organization,18,2748.06,1644.68
+2025-10-29,East,Outdoor Living,20,3382.04,2130.15
+2025-09-14,North,Kitchen,16,1437.31,801.90
+2025-01-16,South,Home Organization,26,3396.57,2028.90
+2025-07-30,South,Seasonal,24,2887.11,1762.87
+2025-02-20,North,Kitchen,16,1378.58,731.03
+2025-08-31,South,Kitchen,15,1404.65,801.33
+2025-06-09,East,Seasonal,26,3263.47,1961.98
+2025-04-08,East,Outdoor Living,20,3837.83,2464.86
+2025-04-05,South,Home Organization,20,2574.79,1490.95
+2025-12-03,West,Kitchen,26,2315.59,1227.65
+2025-03-14,South,Home Organization,15,1892.68,1136.44
+2025-06-30,North,Kitchen,23,2198.03,1240.56
+2025-04-08,North,Home Organization,17,2150.49,1295.61
+2025-08-02,North,Seasonal,27,3223.42,2001.02
+2025-09-17,South,Kitchen,18,1686.71,917.08
+2025-12-02,South,Outdoor Living,26,4492.11,2878.58
+2025-09-16,South,Kitchen,21,2230.41,1203.03
+2025-03-01,North,Kitchen,19,1794.87,983.37
+2025-10-12,South,Kitchen,17,1535.86,814.21
+2025-04-03,East,Home Organization,23,2909.81,1708.27
+2025-09-05,West,Outdoor Living,13,2168.18,1315.97
+2025-03-09,East,Home Organization,26,3961.54,2377.47
+2025-02-15,North,Seasonal,24,2715.34,1690.15
+2025-03-20,West,Outdoor Living,25,4178.19,2656.62
+2025-01-23,East,Kitchen,20,2091.57,1195.52
+2025-09-03,West,Outdoor Living,15,2683.01,1633.90
+2025-12-25,North,Home Organization,15,1880.68,1080.94
+2025-04-24,North,Home Organization,15,2269.64,1325.88
+2025-03-09,South,Kitchen,13,1211.60,688.85
+2025-10-27,North,Kitchen,25,2251.86,1237.21
+2025-04-22,East,Home Organization,14,1824.31,1019.23
+2025-03-30,East,Seasonal,27,3005.08,1752.67
+2025-02-05,East,Seasonal,23,2838.85,1667.74
+2025-02-11,North,Kitchen,24,2442.70,1295.01
+2025-11-24,North,Kitchen,18,1774.53,1011.68
+2025-05-29,South,Home Organization,14,2194.65,1247.05
+2025-01-17,South,Home Organization,27,4108.32,2355.00
+2025-08-01,West,Outdoor Living,18,3289.19,1987.59
+2025-01-09,North,Kitchen,18,1708.56,951.64
+2025-03-18,South,Outdoor Living,17,3092.49,1865.05
+2025-01-26,South,Kitchen,19,1916.69,1066.99
+2025-02-25,West,Kitchen,24,2189.03,1249.56
+2025-06-26,West,Outdoor Living,18,3034.10,1827.11
+2025-12-14,South,Home Organization,14,2146.06,1273.15
+2025-08-26,North,Outdoor Living,13,2332.18,1501.13
+2025-12-02,North,Home Organization,27,3696.80,2184.95
+2025-01-13,South,Outdoor Living,26,4793.90,3063.67
+2025-09-13,North,Seasonal,27,2961.56,1745.24
+2025-09-07,East,Outdoor Living,27,4472.42,2665.78
+2025-10-23,North,Outdoor Living,16,3268.20,2105.04
+2025-07-28,North,Kitchen,23,2390.77,1315.82
+2025-02-22,South,Seasonal,22,2722.62,1596.15
+2025-04-20,South,Outdoor Living,18,3428.49,2175.78
+2025-05-06,West,Home Organization,14,1864.40,1120.09
+2025-01-29,West,Outdoor Living,19,3886.03,2359.04
+2025-08-02,East,Outdoor Living,13,2682.71,1706.14
+2025-11-20,North,Outdoor Living,18,3756.06,2377.02
+2025-10-05,East,Seasonal,19,2515.95,1503.49
+2025-08-15,East,Home Organization,26,4047.55,2361.55
+2025-03-07,South,Kitchen,16,1685.97,891.34
+2025-11-26,South,Seasonal,25,2891.95,1804.54
+2025-08-18,West,Seasonal,25,3327.49,1978.90
+2025-09-05,North,Kitchen,18,1544.58,836.15
+2025-10-31,North,Seasonal,23,2874.73,1657.57
+2025-11-14,West,Home Organization,24,3793.25,2270.74
+2025-04-15,North,Home Organization,16,2462.19,1470.38
+2025-12-30,East,Seasonal,19,2344.69,1412.77
+2025-10-15,East,Outdoor Living,22,3666.62,2227.79
+2025-03-03,South,Kitchen,18,1852.54,1007.63
+2025-09-14,East,Kitchen,25,2592.24,1436.60
+2025-05-27,North,Kitchen,15,1493.70,792.00
+2025-08-01,West,Kitchen,16,1454.36,820.49
+2025-02-02,North,Outdoor Living,24,4325.64,2600.94
+2025-01-25,East,Kitchen,15,1291.90,682.16
+2025-10-08,South,Home Organization,26,3900.17,2246.27
+2025-03-14,South,Home Organization,19,2535.45,1472.31
+2025-05-18,North,Seasonal,18,2242.08,1395.73
+2025-04-26,North,Seasonal,13,1637.01,976.80
+2025-12-06,South,Seasonal,14,1829.62,1119.94
+2025-06-25,North,Seasonal,17,2226.91,1295.70
+2025-09-10,East,Outdoor Living,18,3149.85,2023.70
+2025-01-02,South,Kitchen,13,1295.81,696.86
+2025-12-05,West,Outdoor Living,16,3146.95,1958.56
+2025-10-12,North,Seasonal,18,2404.45,1411.64
+2025-06-19,South,Kitchen,13,1213.92,670.23
+2025-07-22,North,Home Organization,17,2643.01,1485.03
+2025-03-05,South,Kitchen,24,2384.93,1264.95
+2025-12-29,North,Seasonal,15,1947.17,1142.97
+2025-08-11,North,Kitchen,13,1323.13,723.26
+2025-05-21,North,Outdoor Living,22,3847.59,2299.83
+2025-08-29,North,Seasonal,20,2223.28,1351.60
+2025-06-25,North,Outdoor Living,13,2669.00,1651.82
+2025-09-15,North,Seasonal,23,3142.69,1906.47
+2025-03-07,West,Outdoor Living,26,5014.22,3043.93
+2025-10-09,North,Outdoor Living,16,3106.09,1894.22
+2025-01-02,West,Seasonal,18,2043.50,1194.97
+2025-01-09,East,Kitchen,17,1479.42,827.65
+2025-09-09,North,Seasonal,21,2877.70,1705.70
+2025-05-05,West,Kitchen,24,2407.20,1336.49
+2025-08-08,South,Kitchen,14,1312.03,704.10
+2025-12-17,North,Kitchen,18,1747.24,972.09
+2025-02-03,South,Outdoor Living,24,4633.58,2875.84
+2025-07-23,South,Seasonal,22,2814.52,1748.22
+2025-12-04,East,Seasonal,18,2030.44,1183.49
+2025-11-04,West,Home Organization,25,3643.96,2072.87
+2025-03-23,East,Home Organization,21,2765.97,1557.32
+2025-03-17,North,Outdoor Living,23,4434.04,2662.57
+2025-04-22,West,Home Organization,19,2420.60,1402.52
+2025-12-27,South,Seasonal,20,2598.63,1545.14
+2025-06-27,South,Home Organization,13,2009.64,1186.33
+2025-12-15,West,Outdoor Living,22,4016.20,2483.52
+2025-12-05,South,Kitchen,21,1959.50,1102.69
+2025-06-28,South,Home Organization,26,3773.95,2131.18
+2025-08-31,South,Outdoor Living,16,3005.83,1871.97
+2025-01-24,East,Kitchen,16,1409.85,775.90
+2025-09-28,West,Kitchen,22,2193.06,1207.72
+2025-08-24,East,Kitchen,20,1774.87,954.47
+2025-01-26,North,Kitchen,20,2026.02,1130.32
+2025-11-30,South,Kitchen,22,2324.97,1321.32
+2025-07-19,South,Outdoor Living,20,3598.43,2251.87
+2025-04-08,West,Outdoor Living,19,3599.93,2243.93
+2025-09-18,North,Outdoor Living,19,3945.90,2461.29
+2025-05-22,East,Outdoor Living,22,3768.75,2289.07
+2025-05-12,East,Kitchen,19,1843.36,1045.85
+2025-02-10,East,Home Organization,26,3318.18,1909.88
+2025-10-04,East,Seasonal,24,2858.73,1672.42
+2025-05-18,East,Home Organization,25,3970.11,2312.11
+2025-09-17,West,Kitchen,23,2006.61,1070.32
+2025-08-10,North,Outdoor Living,15,2994.46,1839.61
+2025-06-02,East,Seasonal,14,1646.08,983.00
+2025-12-11,East,Seasonal,18,2326.81,1415.91
+2025-08-06,North,Outdoor Living,13,2632.19,1663.96
+2025-08-13,North,Seasonal,22,2648.47,1537.35
+2025-05-05,East,Home Organization,14,2037.81,1157.72
+2025-01-25,East,Kitchen,26,2422.65,1375.84
+2025-11-07,South,Home Organization,13,1856.58,1090.20
+2025-07-08,North,Kitchen,19,1927.54,1023.97
+2025-04-07,West,Seasonal,19,2455.93,1460.59
+2025-04-22,West,Kitchen,16,1392.79,780.60
+2025-12-02,West,Home Organization,18,2378.62,1338.95
+2025-12-09,North,Seasonal,21,2295.80,1429.54
+2025-04-24,West,Outdoor Living,14,2715.96,1697.89
+2025-04-13,East,Home Organization,17,2402.25,1440.57
+2025-05-06,West,Home Organization,25,3860.90,2162.88
+2025-12-21,North,Kitchen,22,2286.60,1288.51
+2025-06-23,South,Seasonal,27,3522.02,2042.75
+2025-10-16,East,Seasonal,21,2791.03,1639.01
+2025-10-21,West,Outdoor Living,21,4305.87,2686.02
+2025-06-06,North,Home Organization,17,2241.69,1277.40
+2025-06-13,South,Outdoor Living,27,4717.48,3003.10
+2025-01-18,North,Seasonal,16,2132.47,1271.17
+2025-01-05,North,Seasonal,25,2939.64,1769.54
+2025-09-29,East,Kitchen,19,2032.73,1112.39
+2025-12-25,West,Outdoor Living,18,3526.68,2128.43
+2025-11-30,West,Outdoor Living,18,3624.97,2255.26
+2025-12-03,West,Home Organization,18,2773.83,1650.87
+2025-01-27,West,Kitchen,20,1701.96,901.84
+2025-07-19,North,Seasonal,26,3464.48,2114.66
+2025-05-08,East,Seasonal,14,1695.94,1010.67
+2025-09-21,East,Home Organization,17,2693.84,1553.80
+2025-05-22,East,Outdoor Living,23,4083.90,2431.71
+2025-05-13,West,Seasonal,24,3069.49,1835.77
+2025-05-02,East,Home Organization,15,2202.98,1304.98
+2025-07-01,East,Outdoor Living,15,3090.50,1931.16
+2025-06-11,West,Outdoor Living,14,2846.48,1814.04
+2025-12-11,South,Seasonal,19,2105.88,1214.58
+2025-11-01,West,Kitchen,24,2223.98,1241.98
+2025-11-22,East,Kitchen,21,2239.36,1250.44
+2025-08-11,North,Seasonal,27,3606.29,2187.81
+2025-10-27,East,Outdoor Living,17,3447.67,2178.39
+2025-02-12,West,Seasonal,26,2944.62,1736.73
+2025-02-06,South,Outdoor Living,24,4765.82,2934.27
+2025-12-26,North,Outdoor Living,18,3443.59,2216.85
+2025-05-17,North,Seasonal,22,3000.19,1810.52
+2025-04-16,West,Outdoor Living,24,4288.56,2640.15
+2025-09-05,South,Outdoor Living,25,5215.68,3119.45
+2025-07-09,North,Kitchen,20,2009.09,1125.41
+2025-05-18,East,Outdoor Living,16,3305.58,2108.31
+2025-08-08,South,Home Organization,26,4049.06,2414.35
+2025-12-25,West,Kitchen,13,1133.28,630.75
+2025-08-09,South,Seasonal,18,2288.05,1325.57
+2025-10-21,North,Seasonal,13,1662.89,1034.14
+2025-03-08,South,Kitchen,25,2684.19,1438.16
+2025-09-22,East,Outdoor Living,19,3921.42,2516.09
+2025-12-06,South,Home Organization,15,2255.94,1308.44
+2025-01-22,North,Home Organization,15,2203.77,1250.49
+2025-08-18,East,Kitchen,13,1187.84,631.89
+2025-12-07,North,Seasonal,16,1971.06,1190.22
+2025-09-04,South,Home Organization,27,3732.26,2160.99
+2025-04-30,North,Kitchen,18,1603.74,861.66
+2025-03-14,North,Seasonal,15,1644.89,1023.78
+2025-09-08,East,Home Organization,23,3642.06,2190.18
+2025-04-26,East,Outdoor Living,19,3942.51,2531.27
+2025-10-13,West,Outdoor Living,13,2362.69,1516.40
+2025-08-17,North,Outdoor Living,16,3317.65,2003.36
+2025-09-01,North,Home Organization,21,2791.82,1593.87
+2025-02-08,East,Seasonal,14,1699.13,1043.63
+2025-03-19,West,Seasonal,21,2419.52,1402.84
+2025-04-17,North,Kitchen,15,1574.37,898.28
+2025-03-13,North,Outdoor Living,26,4943.71,3080.14
+2025-10-10,West,Kitchen,25,2117.60,1122.99
+2025-01-07,South,Outdoor Living,27,4599.94,2836.76
+2025-07-18,South,Home Organization,13,1925.43,1138.24
+2025-12-06,North,Kitchen,16,1620.00,861.92
+2025-12-26,North,Home Organization,13,1786.12,1074.84
+2025-01-01,East,Home Organization,16,2424.67,1422.63
+2025-07-06,West,Home Organization,26,3388.14,1905.90
+2025-06-11,North,Home Organization,16,2527.39,1427.41
+2025-07-11,East,Home Organization,18,2851.78,1630.18
+2025-02-08,North,Seasonal,16,1850.21,1121.62
+2025-03-22,West,Home Organization,18,2689.84,1564.56
+2025-09-29,South,Seasonal,25,2893.30,1722.61
+2025-11-05,West,Kitchen,15,1432.24,792.03
+2025-09-15,South,Outdoor Living,26,5435.16,3432.39
+2025-12-05,East,Home Organization,17,2302.47,1346.71
+2025-09-17,East,Outdoor Living,20,3854.71,2449.40
+2025-11-07,East,Kitchen,18,1594.62,853.83
+2025-04-08,South,Kitchen,13,1259.17,702.33
+2025-11-22,East,Seasonal,15,1699.96,1030.25
+2025-11-12,North,Home Organization,24,3119.82,1858.09
+2025-12-24,North,Home Organization,17,2598.86,1480.07
+2025-11-02,North,Kitchen,16,1660.66,940.32
+2025-09-17,South,Home Organization,20,2722.48,1545.76
+2025-09-05,South,Outdoor Living,26,4788.33,2889.66
+2025-08-18,West,Outdoor Living,17,2909.22,1777.53
+2025-08-25,South,Outdoor Living,16,2893.56,1834.22
+2025-02-07,South,Kitchen,22,2054.40,1094.47
+2025-06-06,West,Seasonal,20,2746.85,1710.72
+2025-01-31,North,Home Organization,13,1767.59,1019.40
+2025-04-19,South,Kitchen,18,1540.21,862.85
+2025-02-09,East,Kitchen,19,1770.59,984.96
+2025-07-30,North,Outdoor Living,21,4402.92,2623.84
+2025-12-16,North,Kitchen,24,2052.44,1142.49
+2025-06-16,West,Home Organization,19,2923.93,1758.57
+2025-08-23,North,Home Organization,27,3593.56,2074.82
+2025-12-28,West,Kitchen,14,1264.11,703.74
+2025-11-04,South,Outdoor Living,16,2749.59,1764.47
+2025-08-29,East,Outdoor Living,26,4802.23,3090.53
+2025-02-28,East,Outdoor Living,18,3434.46,2179.11
+2025-02-08,South,Outdoor Living,19,3744.05,2413.53
+2025-06-12,North,Outdoor Living,18,3038.32,1866.50
+2025-09-09,North,Kitchen,26,2679.38,1532.32
+2025-01-25,West,Outdoor Living,22,4389.49,2725.05
+2025-11-29,West,Kitchen,26,2407.73,1357.27
+2025-05-02,South,Outdoor Living,18,2992.16,1872.70
+2025-05-28,West,Seasonal,27,3651.06,2212.07
+2025-09-07,North,Home Organization,18,2444.81,1449.19
+2025-05-05,West,Seasonal,16,1931.26,1146.36
+2025-04-27,West,Kitchen,13,1120.66,626.73
+2025-12-30,South,Seasonal,23,3032.40,1856.71
+2025-03-25,South,Home Organization,23,3539.38,2025.38
+2025-07-30,West,Home Organization,26,3786.40,2116.17
+2025-02-11,West,Kitchen,22,1973.79,1101.03
+2025-01-03,South,Home Organization,13,1689.13,968.27
+2025-11-19,North,Seasonal,18,2425.93,1480.57
+2025-03-28,West,Home Organization,17,2344.06,1353.28
+2025-02-12,North,Home Organization,19,2445.70,1362.11
+2025-12-13,South,Outdoor Living,17,3343.65,2128.44
+2025-01-11,North,Seasonal,15,1952.34,1195.45
+2025-03-07,East,Seasonal,26,3105.28,1810.07
+2025-04-12,South,Kitchen,18,1570.96,849.00
+2025-05-14,North,Home Organization,13,2045.35,1190.89
+2025-03-07,East,Kitchen,21,1921.26,1061.04
+2025-07-27,East,Home Organization,20,3065.99,1748.45
+2025-09-27,South,Home Organization,27,4124.56,2461.22
+2025-08-20,South,Home Organization,17,2457.79,1478.14
+2025-05-08,North,Home Organization,18,2249.41,1322.24
+2025-06-28,East,Kitchen,14,1256.28,713.00
+2025-02-11,South,Seasonal,24,3081.13,1776.88
+2025-08-09,South,Seasonal,20,2561.04,1480.46
+2025-08-07,West,Kitchen,17,1473.64,823.92
+2025-10-07,West,Kitchen,14,1292.80,689.06
+2025-01-30,East,Home Organization,17,2329.10,1334.18
+2025-05-03,North,Outdoor Living,26,4658.46,2781.44
+2025-03-15,West,Outdoor Living,16,2997.51,1792.44
+2025-07-10,West,Home Organization,25,3774.81,2237.71
+2025-02-16,South,Home Organization,20,2758.12,1633.70
+2025-04-12,North,Kitchen,26,2570.23,1433.86
+2025-12-24,West,Home Organization,21,2758.84,1555.42
+2025-02-13,North,Home Organization,17,2459.77,1384.94
+2025-03-11,West,Seasonal,16,2033.16,1183.45
+2025-07-28,South,Outdoor Living,25,5126.37,3094.42
+2025-05-30,West,Home Organization,13,1799.71,1061.02
+2025-06-18,South,Kitchen,17,1575.59,872.71
+2025-02-09,East,Seasonal,24,3202.85,1956.87
+2025-07-31,West,Outdoor Living,24,4763.80,3034.17
+2025-01-19,East,Kitchen,17,1594.20,862.08
+2025-06-16,South,Seasonal,24,2867.27,1725.89
+2025-07-22,South,Home Organization,16,2303.00,1373.28
+2025-05-10,North,Home Organization,23,3236.94,1852.62
+2025-03-28,North,Home Organization,18,2720.21,1552.81
+2025-08-01,South,Home Organization,20,2996.69,1743.26
+2025-11-04,West,Kitchen,26,2288.08,1233.91
+2025-10-08,East,Outdoor Living,18,3743.06,2341.49
+2025-02-08,North,Outdoor Living,16,2907.48,1768.99
+2025-06-21,East,Kitchen,22,2269.63,1275.38
+2025-07-19,South,Home Organization,25,3480.24,2050.01
+2025-03-14,East,Seasonal,26,2881.69,1699.08
+2025-07-02,North,Outdoor Living,22,4291.72,2601.34
+2025-07-10,East,Seasonal,15,2032.22,1250.35
+2025-01-24,West,Home Organization,22,2879.39,1673.94
+2025-10-21,East,Seasonal,20,2485.05,1433.74
+2025-09-09,North,Home Organization,14,2042.14,1168.39
+2025-11-22,East,Home Organization,21,2766.72,1619.82
+2025-01-10,East,Home Organization,21,3208.28,1904.92
+2025-02-03,East,Seasonal,14,1888.64,1124.51
+2025-10-05,South,Seasonal,22,2896.87,1750.87
+2025-05-01,East,Outdoor Living,22,3829.75,2410.57
+2025-01-14,West,Outdoor Living,20,4031.32,2499.41
+2025-10-05,North,Kitchen,24,2417.72,1356.97
+2025-04-11,North,Home Organization,21,3032.02,1747.61
+2025-01-25,West,Seasonal,25,3100.53,1905.90
+2025-02-21,East,Home Organization,17,2248.44,1333.37
+2025-04-21,North,Seasonal,19,2473.31,1489.57
+2025-03-17,West,Home Organization,26,3659.39,2081.33
+2025-02-13,East,Outdoor Living,16,2674.86,1657.56
+2025-08-22,North,Seasonal,24,2829.28,1716.19
+2025-02-01,East,Home Organization,17,2129.12,1241.64
+2025-07-27,North,Home Organization,19,2945.05,1716.47
+2025-12-29,West,Home Organization,19,2699.91,1563.40
+2025-07-26,West,Outdoor Living,24,4329.72,2644.97
+2025-04-07,South,Seasonal,25,2939.43,1714.08
+2025-12-15,North,Seasonal,18,2047.84,1211.09
+2025-10-05,North,Kitchen,27,2864.32,1519.38
+2025-05-04,South,Home Organization,27,4229.28,2514.30
+2025-01-17,East,Outdoor Living,18,3479.92,2162.53
+2025-07-08,South,Seasonal,14,1863.64,1122.42
+2025-07-10,North,Home Organization,21,3053.92,1704.01
+2025-07-21,South,Home Organization,17,2394.02,1442.57
+2025-11-15,South,Outdoor Living,17,3320.43,2131.54
+2025-06-14,South,Outdoor Living,26,4887.61,2952.97
+2025-02-18,East,Kitchen,19,1854.46,1000.31
+2025-02-21,West,Home Organization,15,2076.76,1195.57
+2025-02-27,South,Seasonal,15,1847.65,1149.36
+2025-06-09,West,Outdoor Living,25,4218.92,2691.57
+2025-06-19,South,Kitchen,16,1546.48,863.49
+2025-03-31,West,Home Organization,26,3544.37,2120.53
+2025-01-17,East,Outdoor Living,27,4580.98,2756.97
+2025-11-30,North,Seasonal,20,2451.38,1522.39
+2025-07-04,South,Kitchen,13,1232.22,698.05
+2025-07-24,West,Kitchen,21,2121.45,1130.76
+2025-11-22,West,Outdoor Living,25,4511.39,2715.31
+2025-10-03,North,Home Organization,14,1811.32,1051.10
+2025-04-02,East,Seasonal,21,2330.99,1400.85
+2025-04-27,East,Kitchen,23,2266.58,1213.44
+2025-04-07,West,Kitchen,14,1363.50,769.80
+2025-11-04,East,Home Organization,22,2939.68,1703.73
+2025-04-04,West,Outdoor Living,19,3841.59,2367.22
+2025-09-27,South,Outdoor Living,23,4258.66,2587.45
+2025-12-21,South,Home Organization,27,3446.85,1968.92
+2025-05-03,East,Kitchen,14,1201.57,686.83
+2025-11-28,West,Outdoor Living,15,2960.95,1822.17
+2025-01-07,North,Kitchen,17,1483.70,814.19
+2025-12-22,East,Outdoor Living,23,4308.92,2746.50
+2025-06-02,South,Kitchen,14,1413.31,777.78
+2025-08-26,West,Outdoor Living,15,2560.44,1585.34
+2025-10-22,West,Seasonal,27,3658.37,2227.91
+2025-02-04,North,Outdoor Living,21,3879.93,2457.19
+2025-08-31,West,Seasonal,14,1570.03,963.04
+2025-05-30,North,Kitchen,20,2090.57,1172.90
+2025-03-24,South,Seasonal,18,2343.55,1376.27
+2025-06-11,North,Seasonal,21,2887.29,1747.54
+2025-11-18,South,Outdoor Living,21,3869.49,2378.73
+2025-08-18,East,Kitchen,15,1428.07,793.19
+2025-05-19,West,Kitchen,23,2001.26,1113.79
+2025-08-12,East,Seasonal,19,2418.26,1402.95
+2025-11-12,East,Seasonal,17,2287.00,1354.55
+2025-06-22,West,Kitchen,20,1900.09,1060.47
+2025-04-03,South,Kitchen,22,2361.78,1302.23
+2025-02-07,South,Seasonal,15,2042.48,1247.00
+2025-11-03,East,Kitchen,15,1321.16,736.46
+2025-07-26,East,Seasonal,16,1749.04,1009.75
+2025-04-30,North,Outdoor Living,26,4545.06,2800.90
+2025-05-26,South,Home Organization,23,3521.76,2056.64
+2025-05-13,West,Outdoor Living,23,4601.30,2753.52
+2025-02-20,East,Outdoor Living,15,2800.75,1777.44
+2025-07-30,North,Outdoor Living,18,3749.13,2342.97
+2025-07-20,West,Kitchen,25,2554.30,1448.48
+2025-12-18,West,Seasonal,22,2579.37,1487.51
+2025-08-27,East,Kitchen,27,2530.50,1383.48
+2025-09-30,West,Outdoor Living,18,2993.97,1784.22
+2025-04-01,South,Seasonal,18,1995.32,1209.85
+2025-12-22,South,Seasonal,26,3604.44,2241.50
+2025-08-06,South,Kitchen,17,1441.98,810.88
+2025-01-01,West,Home Organization,24,3708.07,2233.69
+2025-09-01,West,Seasonal,27,3181.50,1982.69
+2025-11-23,East,Outdoor Living,16,2844.68,1794.72
+2025-11-15,West,Home Organization,27,3882.74,2285.32
+2025-10-09,East,Home Organization,19,2867.70,1670.96
+2025-03-06,West,Outdoor Living,25,4427.77,2829.97
+2025-11-10,West,Kitchen,23,2186.76,1200.58
+2025-08-03,West,Kitchen,17,1547.22,880.05
+2025-12-13,East,Home Organization,23,2934.85,1758.93
+2025-08-12,South,Seasonal,27,3010.99,1775.54
+2025-10-06,East,Outdoor Living,27,5145.58,3123.46
+2025-06-24,South,Kitchen,16,1667.37,922.80
+2025-03-03,West,Outdoor Living,26,4429.13,2706.03
+2025-05-10,South,Kitchen,23,2265.58,1273.08
+2025-09-20,East,Home Organization,27,3973.38,2235.97
+2025-02-12,North,Home Organization,19,2749.64,1571.06
+2025-06-08,East,Home Organization,22,2919.19,1752.53
+2025-06-07,West,Outdoor Living,22,3684.25,2312.62
+2025-04-11,East,Seasonal,20,2369.68,1385.12
+2025-01-01,North,Outdoor Living,18,3374.54,2171.72
+2025-03-28,South,Kitchen,17,1574.64,851.16
+2025-06-18,South,Seasonal,19,2522.97,1518.02
+2025-08-04,North,Kitchen,18,1898.23,1018.54
+2025-03-15,West,Kitchen,17,1774.23,980.68
+2025-07-15,East,Outdoor Living,13,2564.08,1585.39
+2025-10-25,South,Outdoor Living,15,2681.08,1628.30
+2025-10-07,North,Kitchen,13,1136.13,605.43
+2025-11-30,West,Kitchen,23,1961.60,1096.04
+2025-09-12,West,Seasonal,13,1798.27,1111.71
+2025-06-18,East,Outdoor Living,20,3547.93,2144.52
+2025-12-17,West,Kitchen,24,2177.93,1188.25
+2025-05-18,South,Home Organization,26,3403.44,1945.55
+2025-11-27,East,Seasonal,14,1914.77,1138.77
+2025-01-14,West,Outdoor Living,18,3159.89,1901.45
+2025-06-16,North,Seasonal,18,2220.52,1362.78
+2025-08-08,North,Home Organization,26,3602.53,2026.36
+2025-08-13,East,Outdoor Living,26,4444.23,2725.86
+2025-02-19,West,Outdoor Living,23,4176.03,2495.06
+2025-07-25,West,Home Organization,21,2780.18,1637.57
+2025-11-12,South,Kitchen,18,1933.19,1076.85
+2025-06-26,North,Seasonal,23,2794.66,1726.86
+2025-07-06,East,Home Organization,26,3507.66,1997.18
+2025-01-08,West,Kitchen,17,1583.03,873.09
+2025-11-07,South,Home Organization,21,3065.04,1798.50
+2025-06-21,South,Home Organization,24,3158.03,1808.89
+2025-09-08,East,Home Organization,14,1971.68,1164.62
+2025-01-13,East,Outdoor Living,13,2447.16,1560.42
+2025-03-14,South,Kitchen,25,2345.27,1271.22
+2025-09-19,South,Seasonal,16,1856.40,1124.42
+2025-08-10,South,Home Organization,14,1806.18,1021.82
+2025-07-05,North,Seasonal,13,1499.42,879.27
+2025-05-24,West,Home Organization,16,2266.95,1272.08
+2025-12-20,South,Home Organization,13,1721.86,1009.15
+2025-02-28,West,Home Organization,14,2012.12,1202.12
+2025-12-15,East,Home Organization,22,2833.95,1589.67
+2025-06-11,East,Outdoor Living,18,3739.22,2268.68
+2025-12-25,North,Seasonal,19,2497.16,1510.96
+2025-05-19,North,Outdoor Living,24,4531.53,2819.80
+2025-04-21,South,Seasonal,25,3009.49,1833.15
+2025-09-26,East,Seasonal,18,2127.58,1263.90
+2025-09-30,North,Kitchen,23,2439.05,1302.53
+2025-04-26,West,Seasonal,26,3521.34,2179.74
+2025-01-10,West,Seasonal,18,2373.76,1466.10
+2025-03-07,North,Kitchen,17,1728.97,956.19
+2025-10-25,East,Seasonal,27,3213.79,1985.08
+2025-03-22,South,Home Organization,24,3484.33,2011.71
+2025-06-22,North,Seasonal,17,2172.62,1267.75
+2025-07-15,West,Home Organization,22,3204.43,1837.37
+2025-05-23,North,Seasonal,14,1849.10,1139.59
+2025-12-24,North,Kitchen,18,1659.89,893.41
+2025-02-21,West,Home Organization,27,3585.64,2101.27
+2025-11-03,South,Outdoor Living,18,3555.95,2288.09
+2025-05-21,West,Home Organization,14,2006.84,1117.69
+2025-12-26,South,Home Organization,15,2364.43,1362.79
+2025-03-23,North,Kitchen,24,2100.22,1127.89
+2025-06-18,East,Kitchen,23,2457.85,1373.37
+2025-11-12,East,Kitchen,22,2282.31,1230.83
+2025-02-18,East,Kitchen,18,1619.07,884.44
+2025-07-12,East,Seasonal,19,2416.32,1474.24
+2025-04-07,East,Home Organization,26,4033.50,2323.13
+2025-04-17,West,Home Organization,21,3239.42,1938.78
+2025-05-10,North,Kitchen,27,2830.87,1555.52
+2025-05-17,West,Home Organization,17,2553.09,1448.53
+2025-12-23,West,Outdoor Living,21,3972.96,2401.37
+2025-02-27,East,Outdoor Living,21,4024.88,2547.84
+2025-03-12,North,Seasonal,16,1863.89,1080.74
+2025-04-15,West,Outdoor Living,23,4395.52,2642.28
+2025-11-13,West,Kitchen,13,1378.80,746.75
+2025-08-20,South,Home Organization,17,2235.00,1291.65
+2025-12-24,East,Kitchen,22,2339.89,1301.72
+2025-09-28,West,Home Organization,25,3306.84,1871.81
+2025-06-19,East,Outdoor Living,26,5191.64,3166.14
+2025-06-13,East,Outdoor Living,14,2522.66,1617.41
+2025-10-19,North,Outdoor Living,16,2960.87,1896.91
+2025-11-06,East,Kitchen,25,2582.82,1367.13
+2025-11-30,North,Home Organization,26,3899.33,2173.62
+2025-06-02,North,Seasonal,22,2856.72,1731.20
+2025-04-22,East,Seasonal,14,1781.02,1047.56
+2025-08-07,North,Home Organization,21,3014.48,1743.49
+2025-08-28,East,Seasonal,21,2533.94,1488.59
+2025-12-17,South,Outdoor Living,21,4235.23,2620.12
+2025-04-23,West,Kitchen,27,2725.75,1524.31
+2025-09-07,West,Seasonal,20,2224.68,1285.89
+2025-06-12,West,Home Organization,15,2183.45,1218.47
+2025-12-28,North,Seasonal,20,2698.28,1577.29
+2025-03-05,North,Outdoor Living,16,3107.42,1917.56
+2025-05-08,West,Outdoor Living,16,3273.98,2058.18
+2025-08-06,South,Outdoor Living,17,2923.72,1756.58
+2025-03-14,North,Home Organization,16,2474.73,1474.84
+2025-01-01,West,Home Organization,15,2152.52,1250.13
+2025-06-01,South,Kitchen,18,1644.86,896.54
+2025-03-06,North,Home Organization,23,3149.19,1895.71
+2025-09-28,South,Seasonal,20,2337.48,1396.23
+2025-05-08,South,Kitchen,16,1431.31,804.37
+2025-09-06,West,Seasonal,15,2011.66,1194.24
+2025-09-20,North,Kitchen,25,2434.06,1383.13
+2025-05-05,West,Home Organization,22,3028.99,1692.93
+2025-10-05,East,Kitchen,19,1968.04,1101.97
+2025-08-19,West,Seasonal,22,2997.98,1797.11
+2025-09-15,West,Seasonal,18,2349.10,1456.69
+2025-08-29,North,Home Organization,21,2941.43,1711.76
+2025-01-23,East,Outdoor Living,19,3272.31,2057.97
+2025-02-16,West,Outdoor Living,24,4316.05,2635.95
+2025-09-20,South,Home Organization,21,3331.08,1990.94
+2025-02-11,East,Home Organization,25,3516.55,1990.73
+2025-04-04,North,Home Organization,21,3034.80,1715.08
+2025-05-07,North,Outdoor Living,19,3529.39,2252.96
+2025-05-31,East,Outdoor Living,24,5040.95,3056.60
+2025-05-13,North,Seasonal,26,3403.13,2069.83
+2025-07-12,West,Seasonal,17,2075.13,1234.78
+2025-07-11,North,Kitchen,25,2561.04,1436.60
+2025-02-06,East,Outdoor Living,22,4132.17,2625.78
+2025-12-07,South,Home Organization,25,3179.48,1913.03
+2025-04-28,West,Outdoor Living,15,2509.05,1586.77
+2025-03-22,South,Home Organization,23,3169.04,1837.13
+2025-07-22,South,Kitchen,15,1506.77,858.07
+2025-09-28,East,Kitchen,23,2235.51,1226.18
+2025-10-11,West,Kitchen,22,82500.00,51000.00
+2025-03-17,West,Home Organization,20,2991.74,1734.73
+2025-07-29,North,Kitchen,24,2236.74,1226.95
+2025-05-25,South,Seasonal,19,2493.22,1473.25
+2025-03-01,South,Kitchen,20,1915.66,1071.12
+2025-12-24,East,Kitchen,13,1320.95,708.26
+2025-02-17,North,Seasonal,22,2736.58,1641.90
+2025-11-17,South,Kitchen,18,1763.04,952.44
+2025-10-18,North,Outdoor Living,22,3652.79,2351.11
+2025-11-19,North,Home Organization,19,2570.69,1499.94
+2025-01-16,West,Kitchen,21,2229.19,1245.72
+2025-08-13,East,Seasonal,22,2864.12,1672.11
+2025-12-13,West,Home Organization,26,3366.40,1956.95
+2025-10-25,West,Seasonal,24,3265.99,1971.16
+2025-01-08,South,Outdoor Living,20,3838.80,2351.20
+2025-04-18,South,Kitchen,25,2525.83,1416.02
+2025-02-11,West,Outdoor Living,18,3141.97,1902.82
+2025-07-09,South,Home Organization,27,4190.61,2501.28
+2025-12-11,East,Kitchen,16,1622.47,889.90
+2025-08-11,West,Outdoor Living,26,4427.38,2844.79
+2025-04-15,North,Kitchen,15,1272.01,674.94
+2025-03-07,South,Outdoor Living,18,3352.74,2155.41
+2025-06-12,South,Seasonal,22,2523.34,1482.21
+2025-02-21,East,Kitchen,27,2582.59,1467.19
+2025-08-11,East,Outdoor Living,23,4629.04,2907.94
+2025-05-01,West,Home Organization,22,2978.53,1697.57
+2025-08-19,East,Home Organization,13,2016.24,1157.22
+2025-08-14,West,Home Organization,25,3896.57,2295.58
+2025-05-24,North,Seasonal,17,2139.96,1266.55
+2025-01-13,South,Outdoor Living,23,4053.56,2502.73
+2025-09-15,East,Outdoor Living,27,4738.95,2913.39
+2025-12-03,North,Home Organization,19,2872.52,1686.80
+2025-08-08,North,Seasonal,20,2531.40,1554.17
+2025-02-09,West,Seasonal,22,2521.90,1564.84
+2025-12-07,West,Seasonal,15,2019.70,1255.78
+2025-12-31,East,Home Organization,15,2237.82,1271.22
+2025-04-13,North,Seasonal,17,2239.71,1312.00
+2025-08-27,West,Outdoor Living,13,2709.78,1624.40
+2025-06-13,South,Outdoor Living,16,2718.09,1750.96
+2025-12-07,East,Home Organization,26,4098.81,2380.66
+2025-04-28,North,Kitchen,20,1957.87,1112.93
+2025-07-20,South,Home Organization,13,1764.53,1053.97
+2025-12-31,East,Seasonal,14,1563.01,951.24
+2025-11-24,South,Seasonal,17,2057.40,1254.54
+2025-01-14,North,Kitchen,16,1372.35,756.34
+2025-02-25,East,Kitchen,26,2566.26,1442.97
+2025-06-24,East,Home Organization,27,3497.52,2032.18
+2025-09-05,North,Seasonal,24,2787.88,1629.23
+2025-12-25,North,Home Organization,26,3565.14,2123.76
+2025-05-28,West,Kitchen,25,2189.05,1233.39
+2025-11-14,South,Kitchen,19,1702.50,959.24
+2025-04-25,East,Seasonal,17,2321.89,1398.25
+2025-03-11,North,Seasonal,22,2900.45,1702.37
+2025-10-03,West,Seasonal,27,3289.27,1930.43
+2025-09-01,West,Seasonal,15,1943.57,1144.51
+2025-01-10,East,Outdoor Living,23,4600.77,2834.19
+2025-08-05,South,Seasonal,21,2376.34,1424.08
+2025-01-23,West,Home Organization,24,3332.74,1879.04
+2025-12-12,West,Kitchen,13,1301.54,712.69
+2025-08-19,South,Seasonal,16,1906.93,1159.59
+2025-09-23,East,Outdoor Living,14,2424.98,1493.88
+2025-03-25,South,Kitchen,20,1790.26,1021.52
+2025-04-20,North,Home Organization,19,2682.41,1519.10
+2025-03-05,West,Outdoor Living,16,2735.67,1675.92
+2025-06-03,North,Home Organization,19,2480.34,1461.76
+2025-05-08,South,Seasonal,24,3290.21,1917.99
+2025-08-30,East,Outdoor Living,25,5223.94,3169.53
+2025-10-02,West,Home Organization,17,2623.31,1521.59
+2025-11-16,South,Kitchen,25,2127.08,1214.66
+2025-07-11,North,Kitchen,14,1330.61,751.74
+2025-11-25,East,Kitchen,17,1785.26,943.92
+2025-08-22,North,Kitchen,24,2577.12,1447.57
+2025-07-28,East,Seasonal,13,1612.75,949.24
+2025-12-14,North,Home Organization,20,2756.88,1612.34
+2025-01-20,West,Seasonal,16,1985.84,1202.82
+2025-01-29,South,Seasonal,20,2669.69,1552.75
+2025-10-15,South,Home Organization,18,2320.60,1329.75
+2025-07-28,South,Outdoor Living,26,5429.43,3246.50
+2025-09-02,West,Home Organization,16,2321.03,1328.29
+2025-04-23,West,Seasonal,15,1687.88,1002.81
+2025-02-13,West,Kitchen,21,1853.46,999.77
+2025-11-30,West,Seasonal,19,2265.81,1333.46
+2025-02-17,West,Seasonal,16,1750.15,1046.89
+2025-07-28,North,Home Organization,25,3620.08,2092.88
+2025-04-09,North,Outdoor Living,20,4091.27,2581.88
+2025-03-27,West,Home Organization,25,3657.84,2134.05
+2025-01-17,North,Kitchen,20,1942.78,1069.68
+2025-06-22,West,Outdoor Living,15,2606.13,1667.63
+2025-12-26,South,Outdoor Living,22,3904.78,2411.47
+2025-11-29,West,Seasonal,25,3068.79,1772.64
+2025-09-11,North,Kitchen,17,1576.14,864.22
+2025-01-04,North,Outdoor Living,22,4426.32,2673.27
+2025-11-10,North,Seasonal,19,2445.71,1442.58
+2025-04-02,East,Kitchen,19,1946.83,1065.65
+2025-08-19,North,Outdoor Living,20,3695.15,2217.27
+2025-08-27,East,Outdoor Living,21,4407.69,2670.30
+2025-04-24,West,Outdoor Living,23,4685.71,2997.68
+2025-05-10,West,Kitchen,21,2053.91,1133.84
+2025-01-15,East,Home Organization,26,3330.57,1878.49
+2025-10-26,South,Outdoor Living,14,2399.46,1509.26
+2025-10-27,East,Kitchen,23,2297.39,1234.74
+2025-10-12,South,Seasonal,26,3481.25,2068.05
+2025-11-06,South,Home Organization,21,3110.57,1825.87
+2025-08-14,North,Outdoor Living,20,3341.69,2067.80
+2025-12-01,East,Outdoor Living,15,3079.19,1969.57
+2025-10-31,North,Kitchen,14,1363.76,746.47
+2025-04-17,South,Seasonal,26,3071.75,1789.97
+2025-05-11,West,Seasonal,14,1721.33,1067.46
+2025-12-01,West,Outdoor Living,17,2932.45,1855.62
+2025-06-30,North,Outdoor Living,22,4523.36,2742.19
+2025-04-23,West,Seasonal,26,3420.06,1993.76
+2025-09-17,South,Seasonal,25,3021.68,1810.04
+2025-07-19,South,Home Organization,26,3877.56,2308.24
+2025-01-29,East,Kitchen,16,1575.73,844.42
+2025-05-03,East,Kitchen,19,1760.19,974.98
+2025-10-01,West,Home Organization,23,3475.07,1969.72
+2025-10-09,South,Home Organization,20,3116.00,1835.75
+2025-10-01,North,Kitchen,26,2363.45,1332.62
+2025-12-05,East,Outdoor Living,16,2672.63,1691.27
+2025-07-31,West,Outdoor Living,19,3955.97,2502.60
+2025-02-27,East,Home Organization,26,3310.11,1940.78
+2025-12-26,East,Outdoor Living,20,3353.08,2123.68
+2025-03-13,North,Home Organization,24,3693.77,2101.99
+2025-03-18,North,Kitchen,21,2237.43,1209.41
+2025-09-17,West,Outdoor Living,19,3858.99,2385.88
+2025-04-30,South,Seasonal,27,3245.74,1938.85
+2025-12-09,West,Outdoor Living,24,4911.28,3119.69
+2025-11-14,East,Seasonal,26,3389.27,2062.78
+2025-02-24,South,Seasonal,14,1593.09,979.32
+2025-02-21,South,Outdoor Living,15,2667.17,1668.88
+2025-05-31,West,Outdoor Living,22,3759.64,2360.55
+2025-10-01,South,Home Organization,23,3026.67,1761.07
+2025-02-07,East,Home Organization,21,3237.55,1854.49
+2025-08-29,South,Outdoor Living,25,4170.02,2622.51
+2025-05-02,South,Kitchen,24,2459.72,1378.51
+2025-02-08,West,Seasonal,23,2909.36,1802.66
+2025-11-21,North,Outdoor Living,15,3055.36,1893.49
+2025-07-30,South,Home Organization,26,3565.57,2117.35
+2025-09-20,South,Outdoor Living,16,2906.95,1772.86
+2025-07-17,West,Kitchen,26,2736.43,1464.60
+2025-04-11,East,Home Organization,26,3999.90,2248.86
+2025-06-03,West,Seasonal,17,2306.59,1336.46
+2025-09-15,South,Outdoor Living,14,2640.20,1684.53
+2025-10-31,South,Home Organization,17,2135.29,1264.30
+2025-03-24,West,Outdoor Living,13,2461.36,1556.55
+2025-06-28,East,Seasonal,17,2309.25,1402.91
+2025-11-25,West,Kitchen,16,1666.62,932.69
+2025-06-13,East,Outdoor Living,20,4076.61,2469.20
+2025-11-07,West,Kitchen,23,2103.81,1119.12
+2025-02-06,West,Kitchen,26,2199.36,1228.05
+2025-12-13,South,Outdoor Living,23,4013.90,2574.76
+2025-05-06,East,Kitchen,25,2486.36,1414.19
+2025-12-14,North,Home Organization,22,3130.57,1814.35
+2025-01-08,East,Home Organization,13,2054.17,1188.51
+2025-08-14,East,Kitchen,22,2252.57,1244.06
+2025-05-04,South,Seasonal,22,2557.35,1526.04
+2025-10-05,South,Home Organization,24,3068.47,
+2025-04-12,South,Seasonal,13,1533.90,905.89
+2025-02-25,East,Kitchen,19,1687.26,916.44
+2025-01-13,West,Outdoor Living,27,4931.97,3115.81
+2025-10-24,East,Outdoor Living,24,4022.99,2465.60
+2025-12-26,South,Seasonal,25,2962.47,1727.84
+2025-04-30,South,Home Organization,22,3307.34,
+2025-07-22,South,Kitchen,14,1405.27,759.35
+2025-08-14,East,Home Organization,14,1991.81,1135.37
+2025-10-28,North,Kitchen,23,1971.99,1048.86
+2025-05-30,West,Outdoor Living,26,4460.46,2855.15
+2025-05-02,South,Seasonal,25,2771.32,1644.28
+2025-10-23,East,Outdoor Living,22,3884.32,2405.76
+2025-10-14,West,Outdoor Living,16,3066.37,1848.95
+2025-05-15,North,Seasonal,16,1801.30,1117.52
+2025-12-02,North,Kitchen,24,2425.84,1336.36
+2025-09-10,South,Seasonal,23,2685.38,1671.49
+2025-11-08,South,Home Organization,15,2238.50,1303.51
+2025-01-05,South,Kitchen,15,1343.29,738.60
+2025-01-21,South,Seasonal,15,2071.44,1245.67
+2025-09-27,East,Home Organization,16,2056.75,1218.89
+2025-03-23,North,Seasonal,27,3695.74,2155.10
+2025-07-08,North,Seasonal,22,2420.28,1502.64
+2025-02-23,South,Home Organization,21,2941.23,1722.44
+2025-01-19,South,Outdoor Living,25,4252.10,2553.83
+2025-09-11,West,Kitchen,20,1882.40,1048.65
+2025-05-12,North,Kitchen,22,2136.12,1198.81
+2025-09-08,East,Kitchen,26,2392.01,1328.60
+2025-06-20,North,Kitchen,24,2064.00,1113.08
+2025-01-29,North,Outdoor Living,19,3243.08,2040.65
+2025-03-08,South,Kitchen,21,2008.08,1097.63
+2025-02-03,West,Seasonal,19,2333.34,1344.44
+2025-05-30,South,Kitchen,25,2637.16,1506.99
+2025-02-18,East,Kitchen,22,2080.63,1164.95
+2025-02-02,East,Outdoor Living,24,4154.88,2482.52
+2025-09-29,North,Kitchen,19,1993.29,1117.31
+2025-09-07,North,Seasonal,18,2028.39,1219.02
+2025-03-09,South,Seasonal,27,3006.74,1736.35
+2025-10-24,South,Home Organization,26,3449.41,2012.06
+2025-01-24,East,Kitchen,13,1149.37,632.65
+2025-07-07,North,Seasonal,23,2897.18,1682.78
+2025-02-15,West,Outdoor Living,19,3382.67,2100.97
+2025-02-01,North,Outdoor Living,22,3834.32,2285.17
+2025-01-24,North,Outdoor Living,24,4812.12,3071.25
+2025-04-23,West,Outdoor Living,24,4788.19,3076.88
+2025-03-15,South,Seasonal,15,1867.28,1079.37
+2025-04-02,North,Home Organization,24,3196.37,1791.57
+2025-02-22,South,Outdoor Living,22,3641.12,2225.36
+2025-11-21,South,Seasonal,23,3007.28,1813.51
+2025-06-13,South,Kitchen,14,1207.94,671.13
+2025-09-06,South,Home Organization,22,3187.60,1865.83
+2025-10-30,North,Home Organization,14,1804.01,1049.14
+2025-11-11,West,Outdoor Living,15,2717.91,1742.82
+2025-08-01,West,Kitchen,19,1893.81,1008.59
+2025-11-15,North,Home Organization,20,3057.88,1736.33
+2025-11-28,East,Outdoor Living,25,4818.90,2983.87
+2025-12-08,East,Kitchen,14,1461.96,797.22
+2025-07-23,South,Kitchen,24,2325.50,1241.68
+2025-07-21,South,Seasonal,19,2217.86,1302.31
+2025-08-24,West,Seasonal,17,2321.38,1441.96
+2025-07-15,West,Seasonal,25,3069.41,1828.37
+2025-11-26,North,Home Organization,27,3711.35,2199.51
+2025-06-02,South,Kitchen,27,2693.57,1484.60
+2025-10-17,East,Seasonal,14,1645.76,952.38
+2025-08-20,East,Kitchen,15,1364.69,748.29
+2025-08-10,South,Kitchen,15,1610.78,911.13
+2025-06-05,South,Outdoor Living,14,2589.34,1618.95
+2025-09-20,East,Seasonal,16,1880.50,1085.81
+2025-04-17,East,Seasonal,14,1562.54,923.30
+2025-06-10,West,Kitchen,23,2384.81,1288.36
+2025-05-06,South,Kitchen,20,1795.59,1020.32
+2025-08-19,North,Home Organization,15,2045.30,1183.29
+2025-10-29,North,Home Organization,25,3340.07,1973.81
+2025-03-12,South,Outdoor Living,22,4595.86,2775.15
+2025-02-13,South,Outdoor Living,27,4800.44,2914.51

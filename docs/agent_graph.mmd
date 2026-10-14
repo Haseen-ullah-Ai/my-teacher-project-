@@ -1,0 +1,38 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	intake(intake)
+	planner(planner)
+	select_tool(select_tool)
+	execute_tool(execute_tool)
+	collect(collect)
+	retry_or_fallback(retry_or_fallback)
+	analyzer(analyzer)
+	validator(validator)
+	reporter(reporter)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> intake;
+	analyzer --> validator;
+	intake --> planner;
+	planner --> select_tool;
+	reporter --> __end__;
+	select_tool -.-> execute_tool;
+	select_tool -.-> analyzer;
+	select_tool -. &nbsp;abort&nbsp; .-> __end__;
+	execute_tool -.-> collect;
+	execute_tool -.-> retry_or_fallback;
+	retry_or_fallback -. &nbsp;retry&nbsp; .-> execute_tool;
+	retry_or_fallback -. &nbsp;skip&nbsp; .-> collect;
+	retry_or_fallback -. &nbsp;abort&nbsp; .-> __end__;
+	collect -.-> select_tool;
+	collect -.-> analyzer;
+	collect -. &nbsp;abort&nbsp; .-> __end__;
+	validator -.-> reporter;
+	validator -.-> planner;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

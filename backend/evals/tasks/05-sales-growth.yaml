@@ -1,0 +1,9 @@
+task: "Calculate sales growth percent from the registered quarterly CSV."
+expected_tools:
+  - csv_reader
+  - calculator
+expected_findings_keywords:
+  - csv_reader
+  - calculator
+must_cite: true
+should_flag_conflict: false

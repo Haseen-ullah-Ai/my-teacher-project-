@@ -1,0 +1,24 @@
+flowchart LR
+    User[User]
+    UI[React 18 + TypeScript UI<br/>Vite]
+    API[FastAPI<br/>health + metrics]
+    Runtime[LangGraph runner<br/>current nodes are stubs]
+    Tools[Controlled local tool registry]
+    DB[(PostgreSQL 16<br/>runs, logs, evidence, FTS)]
+    Files[(Configured local data<br/>documents, CSV, reports)]
+    LLM[Provider adapter<br/>mock by default]
+    OpenAI[OpenAI]
+    Anthropic[Anthropic]
+    Ollama[Ollama]
+
+    User --> UI
+    UI -->|HTTP; planned /api/v1 not mounted| API
+    API -. planned run lifecycle .-> Runtime
+    Runtime --> Tools
+    Runtime --> DB
+    Runtime --> LLM
+    Tools --> DB
+    Tools --> Files
+    LLM -. optional remote .-> OpenAI
+    LLM -. optional remote .-> Anthropic
+    LLM -. optional local service .-> Ollama

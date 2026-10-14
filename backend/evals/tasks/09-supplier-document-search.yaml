@@ -1,0 +1,8 @@
+task: "Search supplier review documents for delivery and quality risks."
+expected_tools:
+  - document_search
+expected_findings_keywords:
+  - document_search
+  - matching document chunk
+must_cite: true
+should_flag_conflict: false

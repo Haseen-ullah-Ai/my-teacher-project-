@@ -1,0 +1,17 @@
+region,quarter,target_revenue
+North,Q1,190000
+North,Q2,205000
+North,Q3,215000
+North,Q4,230000
+South,Q1,175000
+South,Q2,190000
+South,Q3,200000
+South,Q4,215000
+East,Q1,195000
+East,Q2,210000
+East,Q3,225000
+East,Q4,250000
+West,Q1,165000
+West,Q2,180000
+West,Q3,195000
+West,Q4,220000

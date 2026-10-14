@@ -1,0 +1,37 @@
+services:
+  backend:
+    environment:
+      APP_ENV: development
+      CORS_ORIGINS: http://localhost:5173
+    command:
+      [
+        "python",
+        "-m",
+        "uvicorn",
+        "app.main:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "8000",
+        "--reload",
+      ]
+    volumes:
+      - ./backend:/app/backend
+      - ./scripts:/app/scripts
+      - ./data:/app/data
+      - ./reports:/app/reports
+
+  frontend:
+    image: node:20-alpine
+    working_dir: /app
+    environment:
+      VITE_API_BASE_URL: http://localhost:8000
+    volumes:
+      - ./frontend:/app
+      - frontend_node_modules:/app/node_modules
+    command: sh -c "npm ci && npm run dev -- --host 0.0.0.0"
+    ports: !override
+      - "127.0.0.1:5173:5173"
+
+volumes:
+  frontend_node_modules:

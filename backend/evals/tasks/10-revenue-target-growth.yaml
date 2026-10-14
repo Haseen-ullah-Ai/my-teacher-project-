@@ -1,0 +1,11 @@
+task: "Analyze regional sales revenue, find the policy target, and calculate growth percent."
+expected_tools:
+  - csv_reader
+  - document_search
+  - calculator
+expected_findings_keywords:
+  - csv_reader
+  - document_search
+  - calculator
+must_cite: true
+should_flag_conflict: true

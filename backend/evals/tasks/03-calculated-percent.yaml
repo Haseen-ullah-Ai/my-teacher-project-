@@ -1,0 +1,8 @@
+task: "Compute the percentage change between the two supplied values."
+expected_tools:
+  - calculator
+expected_findings_keywords:
+  - calculator
+  - successful result
+must_cite: true
+should_flag_conflict: false
