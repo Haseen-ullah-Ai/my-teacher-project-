@@ -47,7 +47,7 @@ jobs:
       - name: Pytest with coverage
         working-directory: backend
         run: python -m pytest -q --cov-report=xml
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: backend-coverage
@@ -82,7 +82,7 @@ jobs:
       - name: Run deterministic mock evaluations
         working-directory: backend
         run: python -m evals.run
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: evaluation-results
           path: backend/evals/results/latest.json
